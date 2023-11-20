@@ -2,7 +2,6 @@
 
 ## Part 1
 The bug is in the ReverseInPlace method in ArrayTests.Java.
-***
 A failure-inducing input for the buggy program, as a JUnit test:
 ```
 @Test
